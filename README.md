@@ -43,7 +43,7 @@ Com o constante crescimento na area da piscicultura e os riscos que envolvem cri
  * Um histórico dos Tanques, com base nos funcionários.
  * Mostrar dados de informções de contato dos funcionarios.
  
- [Relatorio](https://github.com/pisciculturainteligente/trab01/blob/master/relatorio/Relatorios.ipynb)
+ [Relatorio](https://github.com/MarceloMendes94/psicultura/blob/master/BD/relatorio/Relatorios.ipynb)
       
  
 #### 4.2 TABELA DE DADOS DO SISTEMA:
@@ -166,14 +166,13 @@ Com o constante crescimento na area da piscicultura e os riscos que envolvem cri
 >## Marco de Entrega 03 em: (27/09/18) <br>
 
 ### 9 TABELAS E PRINCIPAIS CONSULTAS<br>
-
-
-[item nove]()
+[item nove](https://github.com/MarceloMendes94/psicultura/blob/master/BD/Querys/item9.ipynb)
 
 ### 10	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES PARA APRESENTAÇAO FINAL (Mínimo 6 e Máximo 10)<br>
+[Apresentação]()
 
 ### 11 Backup completo do banco de dados postgres 
-[arquivo de backup]()
+[arquivo de backup](https://github.com/MarceloMendes94/psicultura/blob/master/BD/backupBD)
 
     a) deve ser realizado no formato "backup" 
         (Em Dump Options #1 Habilitar opções Don't Save Owner e Privilege)
@@ -188,13 +187,13 @@ Com o constante crescimento na area da piscicultura e os riscos que envolvem cri
 ### 12	TUTORIAL COMPLETO DE PASSOS PARA RESTAURACAO DO BANCO E EXECUCAO DE PROCEDIMENTOS ENVOLVIDOS NO TRABALHO PARA OBTENÇÃO DOS RESULTADOS<br>
 Tutorial de restauração
 Com o Download do backup feito e o pgadmin aberto, Siga os passos a seguir<br>
-![Alt text](criardatabase.png "criar")<br>
+![Alt text](https://github.com/MarceloMendes94/psicultura/tree/master/BD/restore/criardatabase.png "criar")<br>
 Crie um banco de dados para servir de restauração do backup<br>
-![Imagem 2](criardatabase01.PNG "Criar1")<br>	
+![Imagem 2](https://github.com/MarceloMendes94/psicultura/tree/master/BD/restore/criardatabase01.PNG "Criar1")<br>	
 Com banco devidamente criado siga os passo a seguir para restaurar o banco<br>
-![Alt text](restore1.png?raw=true "restaurar")<br>	
+![Alt text](https://github.com/MarceloMendes94/psicultura/tree/master/BD/restore/restore1.png?raw=true "restaurar")<br>	
 Selecione onde você baixou o arquivo de backup e insira em filename<br>
-![Alt text](restore2.PNG?raw=true "restaurar1")<br>    
+![Alt text](https://github.com/MarceloMendes94/psicultura/tree/master/BD/restore/restore2.PNG?raw=true "restaurar1")<br>    
 Clique em restore e aguarde
 		
 	a) Outros grupos deverão ser capazes de restaurar o banco
