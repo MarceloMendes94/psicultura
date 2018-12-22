@@ -193,7 +193,7 @@ Crie um banco de dados para servir de restauração do backup<br>
 Com banco devidamente criado siga os passo a seguir para restaurar o banco<br>
 ![Alt text](https://github.com/MarceloMendes94/psicultura/tree/master/BD/restore/restore1.png?raw=true "restaurar")<br>	
 Selecione onde você baixou o arquivo de backup e insira em filename<br>
-![Alt text](https://github.com/MarceloMendes94/psicultura/tree/master/BD/restore/restore2.PNG?raw=true "restaurar1")<br>    
+![Alt text](https://github.com/MarceloMendes94/psicultura/tree/master/BD/restore/restore2.PNG "restaurar1")<br>    
 Clique em restore e aguarde
 		
 	a) Outros grupos deverão ser capazes de restaurar o banco
