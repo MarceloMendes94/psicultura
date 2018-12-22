@@ -192,15 +192,15 @@ Com o Download do backup feito e o pgadmin aberto, Siga os passos a seguir<br>
 
 Crie um banco de dados para servir de restauração do backup<br>
 
-![Alt text](https://github.com/MarceloMendes94/psicultura/tree/master/BD/restore/criardatabase01.PNG "imagem 2")<br>	
+![Alt text](https://github.com/MarceloMendes94/psicultura/tree/master/BD/restore/criardatabase01.PNG "imagem 2")	
 
 Com banco devidamente criado siga os passo a seguir para restaurar o banco<br>
 
-![Alt text](https://github.com/MarceloMendes94/psicultura/tree/master/BD/restore/restore1.png "imagem 3")<br>
+![Alt text](https://github.com/MarceloMendes94/psicultura/tree/master/BD/restore/restore1.png "imagem 3")
 	
 Selecione onde você baixou o arquivo de backup e insira em filename<br>
 
-![Alt text](https://github.com/MarceloMendes94/psicultura/tree/master/BD/restore/restore2.PNG "imagem 4")<br>   
+![Alt text](https://github.com/MarceloMendes94/psicultura/tree/master/BD/restore/restore2.PNG "imagem 4")   
  
 Clique em restore e aguarde
 		
