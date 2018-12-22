@@ -188,16 +188,19 @@ Com o constante crescimento na area da piscicultura e os riscos que envolvem cri
 Tutorial de restauração
 Com o Download do backup feito e o pgadmin aberto, Siga os passos a seguir<br>
 
-	![Alt text](https://github.com/MarceloMendes94/psicultura/blob/master/BD/restore/criardatabase.png "imagem 1")
+![Alt text](https://github.com/MarceloMendes94/psicultura/blob/master/BD/restore/criardatabase.png "imagem 1")
 
 Crie um banco de dados para servir de restauração do backup<br>
-![Alt text](https://github.com/MarceloMendes94/psicultura/tree/master/BD/restore/criardatabase01.PNG "Criar1")<br>	
+
+![Alt text](https://github.com/MarceloMendes94/psicultura/tree/master/BD/restore/criardatabase01.PNG "imagem 2")<br>	
 
 Com banco devidamente criado siga os passo a seguir para restaurar o banco<br>
-![Alt text](https://github.com/MarceloMendes94/psicultura/tree/master/BD/restore/restore1.png"restaurar")<br>
+
+![Alt text](https://github.com/MarceloMendes94/psicultura/tree/master/BD/restore/restore1.png "imagem 3")<br>
 	
 Selecione onde você baixou o arquivo de backup e insira em filename<br>
-![Alt text](https://github.com/MarceloMendes94/psicultura/tree/master/BD/restore/restore2.PNG "restaurar1")<br>   
+
+![Alt text](https://github.com/MarceloMendes94/psicultura/tree/master/BD/restore/restore2.PNG "imagem 4")<br>   
  
 Clique em restore e aguarde
 		
