@@ -149,35 +149,32 @@ Com o constante crescimento na area da piscicultura e os riscos que envolvem cri
 ### 6	MODELO LÓGICO<br>
 
 ![Alt text](https://github.com/MarceloMendes94/psicultura/blob/master/BD/Modelos/modelo_logico_v5.png "modelologico")
-        a) inclusão do modelo lógico do banco de dados
-        b) verificação de correspondencia com o modelo conceitual 
-        (não serão aceitos modelos que não estejam em conformidade)
 
 ### 7	MODELO FÍSICO<br>
-[modelo físico](https://github.com/pisciculturainteligente/trab01/blob/master/modelo_fisico_v5.sql)
+[modelo físico]()
       
         
 ### 8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
 #### 8.1 DETALHAMENTO DAS INFORMAÇÕES
-[insert](https://github.com/pisciculturainteligente/trab01/blob/master/insert.sql)
+[comandos SQL insert]()
 
 #### 8.2 INCLUSÃO DO SCRIPT PARA CRIAÇÃO DE TABELAS E INSERÇÃO DOS DADOS
-[create +insert](https://github.com/pisciculturainteligente/trab01/blob/master/arquivos/cria%C3%A7%C3%A3o%20e%20inser%C3%A7%C3%A3o.txt)
+[comandos SQL create +insert]()
 
 #### 8.3 INCLUSÃO DO SCRIPT PARA EXCLUSÃO DE TABELAS EXISTENTES, CRIAÇÃO DE TABELA NOVAS E INSERÇÃO DOS DADOS
-[exclusão](https://github.com/pisciculturainteligente/trab01/blob/master/arquivos/deletar%20tabelas.txt)
+[comandos SQL exclusão]()
 
 >## Marco de Entrega 03 em: (27/09/18) <br>
 
 ### 9 TABELAS E PRINCIPAIS CONSULTAS<br>
 
 
-[item nove](https://github.com/pisciculturainteligente/trab01/blob/master/item9.ipynb)
+[item nove](
 
 ### 10	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES PARA APRESENTAÇAO FINAL (Mínimo 6 e Máximo 10)<br>
 
 ### 11 Backup completo do banco de dados postgres 
-[arquivo de backup](https://github.com/pisciculturainteligente/trab01/blob/master/backupBD)
+[arquivo de backup]()
 
     a) deve ser realizado no formato "backup" 
         (Em Dump Options #1 Habilitar opções Don't Save Owner e Privilege)
