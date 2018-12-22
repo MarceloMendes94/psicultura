@@ -31,7 +31,7 @@ Com o constante crescimento na area da piscicultura e os riscos que envolvem cri
 
 ### 4.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 
-[Protótipo feito no Balsami](https://github.com/pisciculturainteligente/trab01/blob/master/arquivos/PsicIntBalsamiqProt.pdf)
+[Protótipo feito no Balsamiq](https://github.com/MarceloMendes94/psicultura/blob/master/Analise/prototipo.pdf)
 
 #### 4.1 QUAIS PERGUNTAS PODEM SER RESPONDIDAS COM O SISTEMA PROPOSTO?
  
@@ -43,12 +43,12 @@ Com o constante crescimento na area da piscicultura e os riscos que envolvem cri
  * Um histórico dos Tanques, com base nos funcionários.
  * Mostrar dados de informções de contato dos funcionarios.
  
- [Relatorio](https://github.com/MarceloMendes94/psicultura/blob/master/BD/relatorio/Relatorios.ipynb)
+[Relatorio](https://github.com/MarceloMendes94/psicultura/blob/master/BD/relatorio/Relatorios.ipynb)
       
  
 #### 4.2 TABELA DE DADOS DO SISTEMA:
    
-[Tabela](https://github.com/pisciculturainteligente/trab01/blob/master/Planilha%20Projeto%20Psicultura.xlsx)
+[Tabela](https://github.com/MarceloMendes94/psicultura/blob/master/BD/Planilha%20Projeto%20Psicultura.xlsx)
     
 >## Marco de Entrega 01 em: (30/08/2018)<br>
 
@@ -57,7 +57,7 @@ Com o constante crescimento na area da piscicultura e os riscos que envolvem cri
 ![Alt text](https://github.com/MarceloMendes94/psicultura/blob/master/BD/Modelos/modelo_conceitual_v5.png "Modelo Conceitual")
     
     B) NOTACAO UML (Caso esteja fazendo a disciplina de analise)
-![Alt text](https://github.com/pisciculturainteligente/trab01/blob/master/images/Diagrama%20de%20classe%20An%C3%A1lise.jpg?raw=true "Modelagem de classe")
+![Alt text](https://github.com/MarceloMendes94/psicultura/blob/master/Analise/Diagrama%20de%20classe.jpg "Modelagem de classe")
     C) QUALIDADE 
         Garantir que a semântica dos atributos seja clara no esquema
         Criar o esquema de forma a garantir a redução de informação redundante, possibilidade de valores null, 
@@ -187,7 +187,8 @@ Com o constante crescimento na area da piscicultura e os riscos que envolvem cri
 ### 12	TUTORIAL COMPLETO DE PASSOS PARA RESTAURACAO DO BANCO E EXECUCAO DE PROCEDIMENTOS ENVOLVIDOS NO TRABALHO PARA OBTENÇÃO DOS RESULTADOS<br>
 Tutorial de restauração
 Com o Download do backup feito e o pgadmin aberto, Siga os passos a seguir<br>
-![img1](https://github.com/MarceloMendes94/psicultura/tree/master/BD/restore/criardatabase.png)
+
+	![Alt text](https://github.com/MarceloMendes94/psicultura/blob/master/BD/restore/criardatabase.png "imagem 1")
 
 Crie um banco de dados para servir de restauração do backup<br>
 ![Alt text](https://github.com/MarceloMendes94/psicultura/tree/master/BD/restore/criardatabase01.PNG "Criar1")<br>	
