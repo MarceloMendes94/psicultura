@@ -187,7 +187,7 @@ Com o constante crescimento na area da piscicultura e os riscos que envolvem cri
 ### 12	TUTORIAL COMPLETO DE PASSOS PARA RESTAURACAO DO BANCO E EXECUCAO DE PROCEDIMENTOS ENVOLVIDOS NO TRABALHO PARA OBTENÇÃO DOS RESULTADOS<br>
 Tutorial de restauração
 Com o Download do backup feito e o pgadmin aberto, Siga os passos a seguir<br>
-[img1](https://github.com/MarceloMendes94/psicultura/tree/master/BD/restore/criardatabase.png)
+![img1](https://github.com/MarceloMendes94/psicultura/tree/master/BD/restore/criardatabase.png)
 
 Crie um banco de dados para servir de restauração do backup<br>
 ![Alt text](https://github.com/MarceloMendes94/psicultura/tree/master/BD/restore/criardatabase01.PNG "Criar1")<br>	
