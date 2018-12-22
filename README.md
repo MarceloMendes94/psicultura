@@ -151,25 +151,24 @@ Com o constante crescimento na area da piscicultura e os riscos que envolvem cri
 ![Alt text](https://github.com/MarceloMendes94/psicultura/blob/master/BD/Modelos/modelo_logico_v5.png "modelologico")
 
 ### 7	MODELO FÍSICO<br>
-[modelo físico]()
-      
+[modelo físico](https://github.com/MarceloMendes94/psicultura/blob/master/BD/Querys/comandoSQLcreate.sql)     
         
 ### 8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
 #### 8.1 DETALHAMENTO DAS INFORMAÇÕES
-[comandos SQL insert]()
+[comandos SQL insert](https://github.com/MarceloMendes94/psicultura/blob/master/BD/Querys/comandoSQLinsert.sql)
 
 #### 8.2 INCLUSÃO DO SCRIPT PARA CRIAÇÃO DE TABELAS E INSERÇÃO DOS DADOS
-[comandos SQL create +insert]()
+[comandos SQL create+insert](https://github.com/MarceloMendes94/psicultura/blob/master/BD/Querys/comandoSQLcreate_insert.txt)
 
 #### 8.3 INCLUSÃO DO SCRIPT PARA EXCLUSÃO DE TABELAS EXISTENTES, CRIAÇÃO DE TABELA NOVAS E INSERÇÃO DOS DADOS
-[comandos SQL exclusão]()
+[comandos SQL exclusão](https://github.com/MarceloMendes94/psicultura/blob/master/BD/Querys/comandoSQLdelete.txt)
 
 >## Marco de Entrega 03 em: (27/09/18) <br>
 
 ### 9 TABELAS E PRINCIPAIS CONSULTAS<br>
 
 
-[item nove](
+[item nove]()
 
 ### 10	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES PARA APRESENTAÇAO FINAL (Mínimo 6 e Máximo 10)<br>
 
@@ -189,14 +188,13 @@ Com o constante crescimento na area da piscicultura e os riscos que envolvem cri
 ### 12	TUTORIAL COMPLETO DE PASSOS PARA RESTAURACAO DO BANCO E EXECUCAO DE PROCEDIMENTOS ENVOLVIDOS NO TRABALHO PARA OBTENÇÃO DOS RESULTADOS<br>
 Tutorial de restauração
 Com o Download do backup feito e o pgadmin aberto, Siga os passos a seguir<br>
-![Alt text](https://github.com/pisciculturainteligente/trab01/blob/master/images/restore/criardatabase.png?raw=true "criar")<br>
-
+![Alt text](criardatabase.png "criar")<br>
 Crie um banco de dados para servir de restauração do backup<br>
-![Imagem 2](https://github.com/pisciculturainteligente/trab01/blob/master/images/restore/criardatabase01.PNG?raw=true "Criar1")<br>	
+![Imagem 2](criardatabase01.PNG "Criar1")<br>	
 Com banco devidamente criado siga os passo a seguir para restaurar o banco<br>
-![Alt text](https://github.com/pisciculturainteligente/trab01/blob/master/images/restore/restore1.png?raw=true "restaurar")<br>	
+![Alt text](restore1.png?raw=true "restaurar")<br>	
 Selecione onde você baixou o arquivo de backup e insira em filename<br>
-![Alt text](https://github.com/pisciculturainteligente/trab01/blob/master/images/restore/restore2.PNG?raw=true "restaurar1")<br>    
+![Alt text](restore2.PNG?raw=true "restaurar1")<br>    
 Clique em restore e aguarde
 		
 	a) Outros grupos deverão ser capazes de restaurar o banco
