@@ -169,7 +169,7 @@ Com o constante crescimento na area da piscicultura e os riscos que envolvem cri
 [item nove](https://github.com/MarceloMendes94/psicultura/blob/master/BD/Querys/item9.ipynb)
 
 ### 10	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES PARA APRESENTAÇAO FINAL (Mínimo 6 e Máximo 10)<br>
-[Apresentação]()
+[Apresentação](https://github.com/MarceloMendes94/psicultura/blob/master/BD/Apresentacao/Apresenta%C3%A7%C3%A3o_Slides.pdf)
 
 ### 11 Backup completo do banco de dados postgres 
 [arquivo de backup](https://github.com/MarceloMendes94/psicultura/blob/master/BD/backupBD)
